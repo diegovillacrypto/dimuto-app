@@ -89,7 +89,7 @@ const EncryptedDataViewer = ({ params }) => {
         }}
         className="write-button"
         connectWallet={{
-          btnTitle: 'Obtener JSON encriptado'
+          btnTitle: 'Return Encrypted Data 🔐'
         }}
         contractAddress="0xB4b007d1f4F5B4BA2D6b12189eE099891C0e0344"
         action={handleClick}

@@ -77,7 +77,7 @@ const WriteBlockchain = (params) => {
       }}
       className="write-button"
       connectWallet={{
-        btnTitle: 'Write on Blockchain'
+        btnTitle: 'Write on Blockchain 🔓'
       }}
       contractAddress="0xB4b007d1f4F5B4BA2D6b12189eE099891C0e0344"
       action={handleClick}
